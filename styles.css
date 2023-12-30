@@ -29,3 +29,9 @@ body {
     cursor: pointer;
     white-space: nowrap;
 }
+
+.nav .buttons button:hover {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+}
